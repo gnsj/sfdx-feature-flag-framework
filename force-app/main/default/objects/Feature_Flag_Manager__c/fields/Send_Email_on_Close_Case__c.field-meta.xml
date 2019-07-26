@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Send_Email_on_Close_Case__c</fullName>
+    <defaultValue>false</defaultValue>
+    <description>When this field is TRUE we send e-mail when case is being closed.</description>
+    <externalId>false</externalId>
+    <inlineHelpText>When this field is TRUE we send e-mail when case is being closed.</inlineHelpText>
+    <label>Send Email on Close Case</label>
+    <trackTrending>false</trackTrending>
+    <type>Checkbox</type>
+</CustomField>
